@@ -1,0 +1,720 @@
+{
+ "name": "NBA Dynasty logo links and colors",
+ "note": "Every NBA team identity from 1984 on. logoURL points to where the logo is already hosted online (ESPN); a blank logoURL means no link, so the app shows the colored team badge. primary/secondary are the team's main colors; eraColors gives the colors that team wore in the 1984, 1996 and 2003 start years when they differed. Colors are close matches, not official values.",
+ "teams": [
+  {
+   "abbreviation": "ATL",
+   "name": "Atlanta Hawks",
+   "conference": "East",
+   "years": "1968-",
+   "primary": "#E03A3E",
+   "secondary": "#C1D32F",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#E03A3E",
+     "secondary": "#FDB927"
+    },
+    "1996": {
+     "primary": "#E03A3E",
+     "secondary": "#000000"
+    },
+    "2003": {
+     "primary": "#E03A3E",
+     "secondary": "#00205B"
+    }
+   }
+  },
+  {
+   "abbreviation": "BOS",
+   "name": "Boston Celtics",
+   "conference": "East",
+   "years": "1946-",
+   "primary": "#007A33",
+   "secondary": "#BA9653",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "BKN",
+   "name": "Brooklyn Nets",
+   "conference": "East",
+   "years": "2012-",
+   "primary": "#000000",
+   "secondary": "#FFFFFF",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+   "inStartEras": []
+  },
+  {
+   "abbreviation": "NJN",
+   "name": "New Jersey Nets",
+   "conference": "East",
+   "years": "1977-2012",
+   "primary": "#002A60",
+   "secondary": "#CD1041",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/nj.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "CHA",
+   "name": "Charlotte Hornets",
+   "conference": "East",
+   "years": "2014-",
+   "primary": "#1D1160",
+   "secondary": "#00788C",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+   "inStartEras": []
+  },
+  {
+   "abbreviation": "CHH",
+   "name": "Charlotte Hornets (original)",
+   "conference": "East",
+   "years": "1988-2002",
+   "primary": "#00778B",
+   "secondary": "#280071",
+   "logoURL": "",
+   "inStartEras": [
+    1996
+   ]
+  },
+  {
+   "abbreviation": "CHB",
+   "name": "Charlotte Bobcats",
+   "conference": "East",
+   "years": "2004-2014",
+   "primary": "#F26532",
+   "secondary": "#29588B",
+   "logoURL": "",
+   "inStartEras": []
+  },
+  {
+   "abbreviation": "CHI",
+   "name": "Chicago Bulls",
+   "conference": "East",
+   "years": "1966-",
+   "primary": "#CE1141",
+   "secondary": "#000000",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "CLE",
+   "name": "Cleveland Cavaliers",
+   "conference": "East",
+   "years": "1970-",
+   "primary": "#860038",
+   "secondary": "#FDBB30",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#E35205",
+     "secondary": "#041E42"
+    },
+    "1996": {
+     "primary": "#000000",
+     "secondary": "#0071CE"
+    },
+    "2003": {
+     "primary": "#860038",
+     "secondary": "#FDBB30"
+    }
+   }
+  },
+  {
+   "abbreviation": "DAL",
+   "name": "Dallas Mavericks",
+   "conference": "West",
+   "years": "1980-",
+   "primary": "#00538C",
+   "secondary": "#B8C4CA",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#0064B1",
+     "secondary": "#00A651"
+    },
+    "1996": {
+     "primary": "#0064B1",
+     "secondary": "#00A651"
+    },
+    "2003": {
+     "primary": "#00538C",
+     "secondary": "#B8C4CA"
+    }
+   }
+  },
+  {
+   "abbreviation": "DEN",
+   "name": "Denver Nuggets",
+   "conference": "West",
+   "years": "1976-",
+   "primary": "#0E2240",
+   "secondary": "#FEC524",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#0E2240",
+     "secondary": "#FEC524"
+    },
+    "1996": {
+     "primary": "#0E2240",
+     "secondary": "#8B2131"
+    },
+    "2003": {
+     "primary": "#5091CD",
+     "secondary": "#FDB927"
+    }
+   }
+  },
+  {
+   "abbreviation": "DET",
+   "name": "Detroit Pistons",
+   "conference": "East",
+   "years": "1957-",
+   "primary": "#C8102E",
+   "secondary": "#1D42BA",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#C8102E",
+     "secondary": "#1D42BA"
+    },
+    "1996": {
+     "primary": "#00A3AD",
+     "secondary": "#8A1538"
+    },
+    "2003": {
+     "primary": "#C8102E",
+     "secondary": "#1D42BA"
+    }
+   }
+  },
+  {
+   "abbreviation": "GSW",
+   "name": "Golden State Warriors",
+   "conference": "West",
+   "years": "1971-",
+   "primary": "#1D428A",
+   "secondary": "#FFC72C",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#FDB927",
+     "secondary": "#1D428A"
+    },
+    "1996": {
+     "primary": "#1D428A",
+     "secondary": "#FDB927"
+    },
+    "2003": {
+     "primary": "#0068B3",
+     "secondary": "#FFA300"
+    }
+   }
+  },
+  {
+   "abbreviation": "HOU",
+   "name": "Houston Rockets",
+   "conference": "West",
+   "years": "1971-",
+   "primary": "#CE1141",
+   "secondary": "#000000",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#CE1141",
+     "secondary": "#FDB927"
+    },
+    "1996": {
+     "primary": "#CE1141",
+     "secondary": "#FDB927"
+    },
+    "2003": {
+     "primary": "#CE1141",
+     "secondary": "#C4CED4"
+    }
+   }
+  },
+  {
+   "abbreviation": "IND",
+   "name": "Indiana Pacers",
+   "conference": "East",
+   "years": "1976-",
+   "primary": "#002D62",
+   "secondary": "#FDBB30",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "KCK",
+   "name": "Kansas City Kings",
+   "conference": "West",
+   "years": "1975-1985",
+   "primary": "#C8102E",
+   "secondary": "#1D428A",
+   "logoURL": "",
+   "inStartEras": [
+    1984
+   ]
+  },
+  {
+   "abbreviation": "SAC",
+   "name": "Sacramento Kings",
+   "conference": "West",
+   "years": "1985-",
+   "primary": "#5A2D81",
+   "secondary": "#63727A",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+   "inStartEras": [
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1996": {
+     "primary": "#5A2D81",
+     "secondary": "#000000"
+    },
+    "2003": {
+     "primary": "#5A2D81",
+     "secondary": "#000000"
+    }
+   }
+  },
+  {
+   "abbreviation": "LAC",
+   "name": "Los Angeles Clippers",
+   "conference": "West",
+   "years": "1984-",
+   "primary": "#C8102E",
+   "secondary": "#1D428A",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "LAL",
+   "name": "Los Angeles Lakers",
+   "conference": "West",
+   "years": "1960-",
+   "primary": "#552583",
+   "secondary": "#FDB927",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "MEM",
+   "name": "Memphis Grizzlies",
+   "conference": "West",
+   "years": "2001-",
+   "primary": "#5D76A9",
+   "secondary": "#12173F",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+   "inStartEras": [
+    2003
+   ],
+   "eraColors": {
+    "2003": {
+     "primary": "#12173F",
+     "secondary": "#6189B9"
+    }
+   }
+  },
+  {
+   "abbreviation": "VAN",
+   "name": "Vancouver Grizzlies",
+   "conference": "West",
+   "years": "1995-2001",
+   "primary": "#00B2A9",
+   "secondary": "#BC7844",
+   "logoURL": "",
+   "inStartEras": [
+    1996
+   ]
+  },
+  {
+   "abbreviation": "MIA",
+   "name": "Miami Heat",
+   "conference": "East",
+   "years": "1988-",
+   "primary": "#98002E",
+   "secondary": "#F9A01B",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+   "inStartEras": [
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "MIL",
+   "name": "Milwaukee Bucks",
+   "conference": "East",
+   "years": "1968-",
+   "primary": "#00471B",
+   "secondary": "#EEE1C6",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#00471B",
+     "secondary": "#C8102E"
+    },
+    "1996": {
+     "primary": "#702F8A",
+     "secondary": "#00471B"
+    },
+    "2003": {
+     "primary": "#00471B",
+     "secondary": "#702F8A"
+    }
+   }
+  },
+  {
+   "abbreviation": "MIN",
+   "name": "Minnesota Timberwolves",
+   "conference": "West",
+   "years": "1989-",
+   "primary": "#0C2340",
+   "secondary": "#236192",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+   "inStartEras": [
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1996": {
+     "primary": "#0C2340",
+     "secondary": "#00843D"
+    },
+    "2003": {
+     "primary": "#0C2340",
+     "secondary": "#00843D"
+    }
+   }
+  },
+  {
+   "abbreviation": "NOP",
+   "name": "New Orleans Pelicans",
+   "conference": "West",
+   "years": "2013-",
+   "primary": "#0C2340",
+   "secondary": "#C8102E",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+   "inStartEras": []
+  },
+  {
+   "abbreviation": "NOH",
+   "name": "New Orleans Hornets",
+   "conference": "East",
+   "years": "2002-2013",
+   "primary": "#00778B",
+   "secondary": "#280071",
+   "logoURL": "",
+   "inStartEras": [
+    2003
+   ]
+  },
+  {
+   "abbreviation": "NYK",
+   "name": "New York Knicks",
+   "conference": "East",
+   "years": "1946-",
+   "primary": "#006BB6",
+   "secondary": "#F58426",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "OKC",
+   "name": "Oklahoma City Thunder",
+   "conference": "West",
+   "years": "2008-",
+   "primary": "#007AC1",
+   "secondary": "#EF3B24",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+   "inStartEras": []
+  },
+  {
+   "abbreviation": "SEA",
+   "name": "Seattle SuperSonics",
+   "conference": "West",
+   "years": "1967-2008",
+   "primary": "#00653A",
+   "secondary": "#FFC200",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/sea.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "ORL",
+   "name": "Orlando Magic",
+   "conference": "East",
+   "years": "1989-",
+   "primary": "#0077C0",
+   "secondary": "#C4CED4",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+   "inStartEras": [
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1996": {
+     "primary": "#0077C0",
+     "secondary": "#000000"
+    },
+    "2003": {
+     "primary": "#0077C0",
+     "secondary": "#000000"
+    }
+   }
+  },
+  {
+   "abbreviation": "PHI",
+   "name": "Philadelphia 76ers",
+   "conference": "East",
+   "years": "1963-",
+   "primary": "#006BB6",
+   "secondary": "#ED174C",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#C8102E",
+     "secondary": "#006BB6"
+    },
+    "1996": {
+     "primary": "#C8102E",
+     "secondary": "#006BB6"
+    },
+    "2003": {
+     "primary": "#000000",
+     "secondary": "#C8102E"
+    }
+   }
+  },
+  {
+   "abbreviation": "PHX",
+   "name": "Phoenix Suns",
+   "conference": "West",
+   "years": "1968-",
+   "primary": "#1D1160",
+   "secondary": "#E56020",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#5F259F",
+     "secondary": "#E56020"
+    },
+    "1996": {
+     "primary": "#1D1160",
+     "secondary": "#E56020"
+    },
+    "2003": {
+     "primary": "#1D1160",
+     "secondary": "#E56020"
+    }
+   }
+  },
+  {
+   "abbreviation": "POR",
+   "name": "Portland Trail Blazers",
+   "conference": "West",
+   "years": "1970-",
+   "primary": "#E03A3E",
+   "secondary": "#000000",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ]
+  },
+  {
+   "abbreviation": "SAS",
+   "name": "San Antonio Spurs",
+   "conference": "West",
+   "years": "1976-",
+   "primary": "#C4CED4",
+   "secondary": "#000000",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#000000",
+     "secondary": "#C4CED4"
+    },
+    "1996": {
+     "primary": "#000000",
+     "secondary": "#C4CED4"
+    },
+    "2003": {
+     "primary": "#000000",
+     "secondary": "#C4CED4"
+    }
+   }
+  },
+  {
+   "abbreviation": "TOR",
+   "name": "Toronto Raptors",
+   "conference": "East",
+   "years": "1995-",
+   "primary": "#CE1141",
+   "secondary": "#000000",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+   "inStartEras": [
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1996": {
+     "primary": "#753BBD",
+     "secondary": "#BA0C2F"
+    },
+    "2003": {
+     "primary": "#CE1141",
+     "secondary": "#000000"
+    }
+   }
+  },
+  {
+   "abbreviation": "UTA",
+   "name": "Utah Jazz",
+   "conference": "West",
+   "years": "1979-",
+   "primary": "#002B5C",
+   "secondary": "#F9A01B",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+   "inStartEras": [
+    1984,
+    1996,
+    2003
+   ],
+   "eraColors": {
+    "1984": {
+     "primary": "#5E2B7E",
+     "secondary": "#00A14B"
+    },
+    "1996": {
+     "primary": "#3E2680",
+     "secondary": "#00A3AD"
+    },
+    "2003": {
+     "primary": "#002B5C",
+     "secondary": "#7BAFD4"
+    }
+   }
+  },
+  {
+   "abbreviation": "WAS",
+   "name": "Washington Wizards",
+   "conference": "East",
+   "years": "1997-",
+   "primary": "#002B5C",
+   "secondary": "#E31837",
+   "logoURL": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+   "inStartEras": [
+    2003
+   ],
+   "eraColors": {
+    "2003": {
+     "primary": "#002B5C",
+     "secondary": "#B5985A"
+    }
+   }
+  },
+  {
+   "abbreviation": "WSB",
+   "name": "Washington Bullets",
+   "conference": "East",
+   "years": "1974-1997",
+   "primary": "#E31837",
+   "secondary": "#002B5C",
+   "logoURL": "",
+   "inStartEras": [
+    1984,
+    1996
+   ]
+  }
+ ]
+}
